@@ -7,8 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BF722&center=true&vCenter=true&random=false&width=1000&lines=Hi+There%2C+I+am+React+Native+developer.;I+have+been+working+for+the+last+7+years+as+a+software+engineer.;Proficient+in+JavaScript+and+Typescript;Building+cross-platform+applications+that+marry+functionality+with+aesthetics.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="./react-native.gif" alt="React Native" />
+  <img src="https://github.com/jaimin-345/jaimin-345/raw/main/react.gif" alt="React Native" />
 </p>
+
+
 
 <p align="center">
  Certainly! As a React Native developer, I thrive at the intersection of creativity and technology. Passionate about creating mobile and interesting experiences, I bring my expertise to build cross-platform applications that combine the performance of native development with the efficiency of web technologies..
